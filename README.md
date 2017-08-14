@@ -34,6 +34,7 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | August 15 | BitDice | Participate in the transformation of a well established casino.  | Ethereum | [Link](https://ico.bitdice.me/) | [Link](http://slack.bitdice.me/) | [Link](https://www.reddit.com/r/BitDiceCasino/) | [Link](https://twitter.com/BitDice) |
 | August 29 | KickCoin | KICKICO is a company for crowdfunding and crowdinvesting in cryptocurrency. | Ethereum | [Link](https://www.kickico.com/) | [Link](https://crowd-ico.slack.com/join/shared_invite/MjA4NjQ0ODMzOTg0LTE0OTk0MjEzMTItNjk4YjMwYTkyZQ) | [Link](https://www.reddit.com/r/KickICO/comments/6n3ag3/welcome_to_rkickico/) | [Link](https://twitter.com/kickicoplatform) |
 | September 1 | Impendit | The First Blockchain Solution to Improve Dining Experiences Worldwide  | Ethereum | [Link](http://impendit.com) | [Link](https://impendit.herokuapp.com/) | [Link](https://www.reddit.com/r/impendit/) | [Link](https://twitter.com/impendit) |
+| September 4 | Grace | Incentivized Donations Platform for Maximal Social Impact  | Ethereum | [Link](https://www.gracetoken.org) | [Link](http://gracetoken.herokuapp.com/) | [Link](https://www.reddit.com/r/GraceToken/) | [Link](https://twitter.com/grace_token) | 
 | September 26 | Rockchain | A distributed data intelligence | Ethereum | [Link](http://rockchain.org/) | [Link](http://rockteam.org) | [Link](https://www.reddit.com/r/rockchain/) | [Link](https://twitter.com/alphadinos) |
 
 ## Unconfirmed Dates
