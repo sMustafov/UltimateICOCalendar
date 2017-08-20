@@ -12,13 +12,6 @@ If you have any random suggestions (like adding a column), feel free to post an 
 
 | Date  | Asset | One Liner | Blockchain | Website | Slack Invite Link | Reddit | Twitter
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| July 17 | Bowhead Health |Personal health using the blockchain | Waves | [Link](https://www.bowheadhealth.com/) | [Link](https://bowhead-slack.herokuapp.com/) | [Link](https://www.reddit.com/r/bowhead/) | [Link](https://twitter.com/bowheadhealth) |
-| July 18 | district0x | A network of decentralized markets and communities | Ethereum | [Link](https://district0x.io/) | [Link](https://district0x-slack.herokuapp.com/) | | [Link](https://twitter.com/district0x) |
-| July 19 | Harbour DAO |Harness the wisdom of the crowd to manage token assets on the Ethereum blockchain | Ethereum | [Link](https://harbour.tokenate.io/) | [Link](https://harbourdao.herokuapp.com/) | [Link](https://www.reddit.com/r/HarbourDao/) | [Link](https://twitter.com/HarbourDao) |
-| July 19 | Aventus | Event ticketing on the blockchain | Ethereum | [Link](https://aventus.io/) | [Link](https://slack.aventus.io/) | [Link](https://www.reddit.com/r/aventus/) | [Link](https://twitter.com/AventusSystems) |
-| July 21 | SafeAlison | Have an affair, safely | Ethereum | [Link](https://safealison.com/) | | | [Link](https://twitter.com/SafealisonSafe) |
-| July 23 | investFeed | The world's first next-gen cryptocurrency social network| Ethereum | [Link](https://tokensale.investfeed.com/) | [Link](https://join.slack.com/t/investfeed/shared_invite/MjEzMzg1NTc0MTYxLTE1MDAzMTkxOTYtNGE0MzFhOTI5Yg) | [Link](https://www.reddit.com/r/investFeedOfficial/) | [Link](https://twitter.com/investfeed) |
-| July 24 | Kumo | The first blockchain-based, decentralized, cloud computing platform| Ethereum | [Link](https://www.kumocoin.com/) | | | |
 | July 25 | Persian | The first token able to battle other tokens| Ethereum | [Link](http://persian.brainmote.com.s3-website.eu-central-1.amazonaws.com) |  |  | [Link](https://twitter.com/persian_token) |
 | July 27 | Tierion | A universal platform for verifiable data | Ethereum | [Link](https://goo.gl/C66Yzk) |  | [Link](https://www.reddit.com/r/tierion) | [Link](https://twitter.com/tierion) |
 | August 1 | Smart Investment Fund | Crypto-pair trading fund with 10-year proven algorithms paying investors in monthly dividends and appreciation in NAV | Ethereum | [Link](https://SmartIFT.com) | | [Link](https://www.reddit.com/r/SmartIFT/) | [Link](https://twitter.com/SmartIFT) |
