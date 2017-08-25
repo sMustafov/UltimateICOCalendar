@@ -15,7 +15,6 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | July 25 | Persian | The first token able to battle other tokens| Ethereum | [Link](http://persian.brainmote.com.s3-website.eu-central-1.amazonaws.com) |  |  | [Link](https://twitter.com/persian_token) |
 | July 27 | Tierion | A universal platform for verifiable data | Ethereum | [Link](https://goo.gl/C66Yzk) |  | [Link](https://www.reddit.com/r/tierion) | [Link](https://twitter.com/tierion) |
 | August 1 | Smart Investment Fund | Crypto-pair trading fund with 10-year proven algorithms paying investors in monthly dividends and appreciation in NAV | Ethereum | [Link](https://SmartIFT.com) | | [Link](https://www.reddit.com/r/SmartIFT/) | [Link](https://twitter.com/SmartIFT) |
-| August 1 | Impendit | (Presale) The First Blockchain Solution to Improve Dining Experiences Worldwide  | Ethereum | [Link](http://impendit.com) | [Link](https://impendit.herokuapp.com/) | [Link](https://www.reddit.com/r/impendit/) | [Link](https://twitter.com/impendit) |
 | August 8 | Po.et | Intellectual Property on the Blockchain | Bitcoin | [Link](https://po.et/) | [Link](https://poet-slack.herokuapp.com/) | |[Link](https://twitter.com/_poetproject) |
 | August 8 | Intuition Fabric | Democratized Deep Learning Artificial Intelligence | Ethereum | [Link](http://intuitionfabric.com/) || [Link](https://www.reddit.com/r/IntuitionFabric/) | [Link](https://twitter.com/IntuitMachine)
 | August 8 | Decentraland | A virtual world that runs on open standards | Ethereum | [Link](https://decentraland.org/) |[Link](https://slack.decentraland.org/)| [Link](https://www.reddit.com/r/decentraland/) | [Link](https://twitter.com/decentraland) |
@@ -28,8 +27,13 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | August 28 | UTRUST | UTRUST is a payment platform that offers buyer protection | Ethereum | [Link](https://utrust.io/) | [Link](https://join.slack.com/t/utrust-official/shared_invite/MjIyMDE1ODI3NDc0LTE1MDE4MDA4NjYtYjVhMTI1MzZkZg) | | [Link](https://www.twitter.com/utrust_official) |
 | August 29 | KickCoin | KICKICO is a company for crowdfunding and crowdinvesting in cryptocurrency. | Ethereum | [Link](https://www.kickico.com/) | [Link](https://crowd-ico.slack.com/join/shared_invite/MjA4NjQ0ODMzOTg0LTE0OTk0MjEzMTItNjk4YjMwYTkyZQ) |[Link](https://www.reddit.com/r/KickICO/comments/6n3ag3/welcome_to_rkickico/) | [Link](https://twitter.com/kickicoplatform) |
 | August 30 | LookRev | LookRev - VR + Blockchain + Business, the first blockchain-based marketplace for creative products. | Ethereum | [Link](https://lookrev.com/) | [Link](https://join.slack.com/t/lookrev/shared_invite/MjIzNTI2NTk2NDA0LTE1MDIxNTg2MTItYjk3NzkwNDM1Yg) | [Link](https://www.reddit.com/r/lookrev) | [Link](https://twitter.com/lookrev) |
-| September 1 | Impendit | The First Blockchain Solution to Improve Dining Experiences Worldwide  | Ethereum | [Link](http://impendit.com) | [Link](https://impendit.herokuapp.com/) | [Link](https://www.reddit.com/r/impendit/) | [Link](https://twitter.com/impendit) |
 | September 4 | Grace | Incentivized Donations Platform for Maximal Social Impact  | Ethereum | [Link](https://www.gracetoken.org) | [Link](http://gracetoken.herokuapp.com/) | [Link](https://www.reddit.com/r/GraceToken/) | [Link](https://twitter.com/grace_token) |
 | September 5 | ZeroTraffic | Solving your traffic congestion management issues  | Ethereum | [Link](http://www.zerotraffic.io) | [Link]( ) | [Link](https://www.reddit.com/user/ZeroTraffic/) | [Link](https://twitter.com/zerotrafficZTT) |
 | September 26 | Rockchain | A distributed data intelligence | Ethereum | [Link](http://rockchain.org/) | [Link](http://rockteam.org) | [Link](https://www.reddit.com/r/rockchain/) | [Link](https://twitter.com/alphadinos) |
 | October 2 | Decision Token | Democratic tools for the 21st century | Ethereum | [Link](https://horizonstate.com/) |  | [Link](https://www.reddit.com/r/horizonstate/) | [Link](https://twitter.com/HorizonState) |
+
+## Coming Soon
+
+| Date  | Asset | One Liner | Blockchain | Website | Slack Invite Link | Reddit | Twitter
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
+| Coming Soon | Impendit | The First Blockchain Solution to Improve Dining Experiences Worldwide  | Ethereum | [Link](http://impendit.com) | [Link](https://impendit.herokuapp.com/) | [Link](https://www.reddit.com/r/impendit/) | [Link](https://twitter.com/impendit) |
