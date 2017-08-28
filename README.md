@@ -30,6 +30,7 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | September 1 | Dogezer | Dogezer is a platform that allows team members to be product investors by investing their time and labor.  | Ethereum | [Link](http://dogezer.com) | [Link](https://slackpass.io/dogezer) | [Link](https://www.reddit.com/user/dogezer) | [Link](https://twitter.com/dogezerCom) |
 | September 4 | Grace | Incentivized Donations Platform for Maximal Social Impact  | Ethereum | [Link](https://www.gracetoken.org) | [Link](http://gracetoken.herokuapp.com/) | [Link](https://www.reddit.com/r/GraceToken/) | [Link](https://twitter.com/grace_token) |
 | September 5 | ZeroTraffic | Solving your traffic congestion management issues  | Ethereum | [Link](http://www.zerotraffic.io) | [Link]( ) | [Link](https://www.reddit.com/user/ZeroTraffic/) | [Link](https://twitter.com/zerotrafficZTT) |
+| September 12 | Domraider | Decentralized blockchain Auctions in Real-Time | Ethereum | [Link](https://www.domraider.io) |  | [Link](https://medium.com/@domraider) | [Link](https://twitter.com/domraider) |
 | September 26 | Rockchain | A distributed data intelligence | Ethereum | [Link](http://rockchain.org/) | [Link](http://rockteam.org) | [Link](https://www.reddit.com/r/rockchain/) | [Link](https://twitter.com/alphadinos) |
 | October 2 | Decision Token | Democratic tools for the 21st century | Ethereum | [Link](https://horizonstate.com/) |  | [Link](https://www.reddit.com/r/horizonstate/) | [Link](https://twitter.com/HorizonState) |
 
