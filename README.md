@@ -32,6 +32,7 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | September 5 | ZeroTraffic | Solving your traffic congestion management issues  | Ethereum | [Link](http://www.zerotraffic.io) | [Link]( ) | [Link](https://www.reddit.com/user/ZeroTraffic/) | [Link](https://twitter.com/zerotrafficZTT) |
 | September 12 | Domraider | Decentralized blockchain Auctions in Real-Time | Ethereum | [Link](https://www.domraider.io) |  | [Link](https://medium.com/@domraider) | [Link](https://twitter.com/domraider) |
 | September 26 | Rockchain | A distributed data intelligence | Ethereum | [Link](http://rockchain.org/) | [Link](http://rockteam.org) | [Link](https://www.reddit.com/r/rockchain/) | [Link](https://twitter.com/alphadinos) |
+| September 28 | Neuron | Doc.ai's Blockchain-Enabled Natural Language Processing Platform For Quantified Biology | Ethereum | [Link](https://tokensale.doc.ai) | | [Link](https://www.reddit.com/r/doc_ai/) | [Link](https://twitter.com/_doc_ai) |
 | October 2 | Decision Token | Democratic tools for the 21st century | Ethereum | [Link](https://horizonstate.com/) |  | [Link](https://www.reddit.com/r/horizonstate/) | [Link](https://twitter.com/HorizonState) |
 
 ## Coming Soon
