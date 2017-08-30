@@ -39,3 +39,4 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | Date  | Asset | One Liner | Blockchain | Website | Slack Invite Link | Reddit | Twitter
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Coming Soon | Impendit | The First Blockchain Solution to Improve Dining Experiences Worldwide  | Ethereum | [Link](http://impendit.com) | [Link](https://impendit.herokuapp.com/) | [Link](https://www.reddit.com/r/impendit/) | [Link](https://twitter.com/impendit) |
+| Q4  | eTardis  | Software Distribution Re-Imagined | Ethereum | [Link](http://etardis.com/) | | [Link](https://www.reddit.com/user/etardis_eth/)|[Link](https://twitter.com/etardis_eth)
