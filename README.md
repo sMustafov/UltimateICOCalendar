@@ -34,6 +34,7 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | September 26 | Rockchain | A distributed data intelligence | Ethereum | [Link](http://rockchain.org/) | [Link](http://rockteam.org) | [Link](https://www.reddit.com/r/rockchain/) | [Link](https://twitter.com/alphadinos) |
 | September 28 | Neuron | Doc.ai's Blockchain-Enabled Natural Language Processing Platform For Quantified Biology | Ethereum | [Link](https://tokensale.doc.ai) | | [Link](https://www.reddit.com/r/doc_ai/) | [Link](https://twitter.com/_doc_ai) |
 | October 2 | Decision Token | Democratic tools for the 21st century | Ethereum | [Link](https://horizonstate.com/) |  | [Link](https://www.reddit.com/r/horizonstate/) | [Link](https://twitter.com/HorizonState) |
+| November 8 | FintruX | Enables borrowers to create their own fully customized and simplified smart contracts with no code for every contract | Ethereum | [Link](https://www.fintrux.com) | [Link](https://gitter.im/FintruX/ICO-Discussion) | [Link](https://www.reddit.com/r/FintruX/) | [Link](https://twitter.com/FintruX) |
 
 ## Coming Soon
 
