@@ -29,9 +29,11 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | September 1 | Dogezer | Dogezer is a platform that allows team members to be product investors by investing their time and labor.  | Ethereum | [Link](http://dogezer.com) | [Link](https://slackpass.io/dogezer) | [Link](https://www.reddit.com/user/dogezer) | [Link](https://twitter.com/dogezerCom) |
 | September 4 | Grace | Incentivized Donations Platform for Maximal Social Impact  | Ethereum | [Link](https://www.gracetoken.org) | [Link](http://gracetoken.herokuapp.com/) | [Link](https://www.reddit.com/r/GraceToken/) | [Link](https://twitter.com/grace_token) |
 | September 5 | ZeroTraffic | Solving your traffic congestion management issues  | Ethereum | [Link](http://www.zerotraffic.io) | [Link]( ) | [Link](https://www.reddit.com/user/ZeroTraffic/) | [Link](https://twitter.com/zerotrafficZTT) |
+| September 6 | Matryx | Incentivized Innovation Through Collaborative Competition | Ethereum | [Link](http://www.matryx.ai) | [Link](https://t.me/matryxai) | [Link](https://www.reddit.com/r/matryx/) | [Link](https://twitter.com/matryx_ai) |
 | September 9 | LookRev | LookRev - VR + Blockchain + Business, the first blockchain-based marketplace for creative products. | Ethereum | [Link](https://lookrev.com/) | [Link](https://join.slack.com/t/lookrev/shared_invite/MjIzNTI2NTk2NDA0LTE1MDIxNTg2MTItYjk3NzkwNDM1Yg) | [Link](https://www.reddit.com/r/lookrev) | [Link](https://twitter.com/lookrev) |
 | September 12 | Domraider | Decentralized blockchain Auctions in Real-Time | Ethereum | [Link](https://www.domraider.io) |  | [Link](https://medium.com/@domraider) | [Link](https://twitter.com/domraider) |
 | September 26 | Rockchain | A distributed data intelligence | Ethereum | [Link](http://rockchain.org/) | [Link](http://rockteam.org) | [Link](https://www.reddit.com/r/rockchain/) | [Link](https://twitter.com/alphadinos) |
+| September 28 | Neuron | Doc.ai's Blockchain-Enabled Natural Language Processing Platform For Quantified Biology | Ethereum | [Link](https://tokensale.doc.ai) | | [Link](https://www.reddit.com/r/doc_ai/) | [Link](https://twitter.com/_doc_ai) |
 | October 2 | Decision Token | Democratic tools for the 21st century | Ethereum | [Link](https://horizonstate.com/) |  | [Link](https://www.reddit.com/r/horizonstate/) | [Link](https://twitter.com/HorizonState) |
 
 ## Coming Soon
@@ -39,3 +41,4 @@ If you have any random suggestions (like adding a column), feel free to post an 
 | Date  | Asset | One Liner | Blockchain | Website | Slack Invite Link | Reddit | Twitter
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Coming Soon | Impendit | The First Blockchain Solution to Improve Dining Experiences Worldwide  | Ethereum | [Link](http://impendit.com) | [Link](https://impendit.herokuapp.com/) | [Link](https://www.reddit.com/r/impendit/) | [Link](https://twitter.com/impendit) |
+| Q4  | eTardis  | Software Distribution Re-Imagined | Ethereum | [Link](http://etardis.com/) | | [Link](https://www.reddit.com/user/etardis_eth/)|[Link](https://twitter.com/etardis_eth)
